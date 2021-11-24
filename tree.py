@@ -45,4 +45,3 @@ class Node:
         child.remove_parent()
         self.children.remove(child)
 
-
